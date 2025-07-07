@@ -1,7 +1,6 @@
 <a id="readme-top"></a>
 
 
-
 <!-- PROJECT SHIELDS -->
 <div align="center">
 
@@ -15,7 +14,6 @@
 </div>
 
 
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -24,33 +22,11 @@
   <p align="center">
     A vanilla javascript implementation of DataTables Responsive extension.
     <br />
-    <br />
     <a href="https://github.com/markmybytes/hide-it/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
     <a href="https://github.com/markmybytes/hide-it/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#include-the-source">Include the source</a></li>
-        <li><a href="#cdn">CDN</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-  </ol>
-</details>
-
 
 
 <!-- ABOUT THE PROJECT -->
@@ -74,9 +50,7 @@ so that the listener binded on the DOM node will in theory be retained.
 
 Althought this implementation is not efficient, it maximise the chance of retain the functionality and behaviour of third party reactive library like Alpine.js or HTMX, or custom event listener.
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -109,7 +83,6 @@ Example
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- USAGE EXAMPLES -->
@@ -207,7 +180,7 @@ _hide-it_ allows you to customise the behaviour by supplying an setting object t
       </td>
     </tr>
   </table>
-   
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
